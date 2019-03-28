@@ -1,5 +1,4 @@
 
-// https://zacsuo.github.io/ScratchSerial/armDemo.js
 
 (function(ext) {
 
@@ -128,7 +127,7 @@
             my_first_menu:['one','two','three'],
             baudRates: [2400, 9600, 19200, 38400, 57600, 115200]
         },
-        url:'https://github.com/zacSuo/ScratchSerial',
+        url:'https://github.com/wangjiaqi1997/duojikongzhi',
         displayName: '舵机控制'
     };
  
